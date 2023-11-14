@@ -1,0 +1,2 @@
+# sunucuTabanli
+Test Amaçlıdır
